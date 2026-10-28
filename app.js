@@ -1,3 +1,3 @@
-import{alerta}from "./archivosJS/alertas";
+import{alerta}from "./archivosJS/alertas.js";
 
 alerta("manuel");
